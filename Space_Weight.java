@@ -31,7 +31,7 @@ public class Space_Weight {
 		System.out.println("6. Neptune");
 		
 	}
-		
+	
 		static void current_earth_weight (int selection, float spaceWeight) {
 			float  myAge = 1;
 			switch (selection) {
